@@ -1,0 +1,17 @@
+C:\Users\sevgi\Desktop\Network_Test\WindowsFormsApplication1\bin\x86\Release\WindowsFormsApplication1.exe.config
+C:\Users\sevgi\Desktop\Network_Test\WindowsFormsApplication1\obj\x86\Release\Interop.SpeechLib.dll
+C:\Users\sevgi\Desktop\Network_Test\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\sevgi\Desktop\Network_Test\WindowsFormsApplication1\bin\x86\Release\AutoItX3.dll
+C:\Users\sevgi\Desktop\Network_Test\WindowsFormsApplication1\bin\x86\Release\AutoItX3_x64.dll
+C:\Users\sevgi\Desktop\Network_Test\WindowsFormsApplication1\bin\x86\Release\WindowsFormsApplication1.exe
+C:\Users\sevgi\Desktop\Network_Test\WindowsFormsApplication1\bin\x86\Release\WindowsFormsApplication1.pdb
+C:\Users\sevgi\Desktop\Network_Test\WindowsFormsApplication1\bin\x86\Release\AutoItX3.Assembly.dll
+C:\Users\sevgi\Desktop\Network_Test\WindowsFormsApplication1\bin\x86\Release\SharpOSC.dll
+C:\Users\sevgi\Desktop\Network_Test\WindowsFormsApplication1\bin\x86\Release\AutoItX3.Assembly.xml
+C:\Users\sevgi\Desktop\Network_Test\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\sevgi\Desktop\Network_Test\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form2.resources
+C:\Users\sevgi\Desktop\Network_Test\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\sevgi\Desktop\Network_Test\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\sevgi\Desktop\Network_Test\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.exe
+C:\Users\sevgi\Desktop\Network_Test\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.pdb
+C:\Users\sevgi\Desktop\Network_Test\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
